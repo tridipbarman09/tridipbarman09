@@ -22,7 +22,7 @@ Hi there! I'm an enthusiastic developer with a passion for creating dynamic and 
 - **Python**: Utilizing Python for scripting, automation, and data analysis.
 
 ## Get in Touch
-I'm always open to discussing new projects, collaborations, or opportunities. Feel free to reach out to me via [email](mailto:your.email@example.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile/).
+I'm always open to discussing new projects, collaborations, or opportunities. Feel free to reach out to me via [email](mailto:tridipbarman09@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/tridipbarman09/).
 
 
 Thank you for visiting my profile! 😊
